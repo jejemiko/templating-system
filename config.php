@@ -7,7 +7,7 @@
  * dan data lain yang nantinya akan digunakan secara terus-menerus
  */
  
- $url = 'http://localhost/wakhidw/templating-system/';
+ $url = 'http://localhost/templating-system/';
 
  $dbhost = '';
  $dbuser = '';
