@@ -17,7 +17,7 @@ $page = ( isset($_GET['page']) ) ? $_GET['page'] : 'home';
 
 /**
  * menyimpan alamat folder themes ke dalam variabel, agar lebih mudah di gunakan nantinya
- * /
+ */
 
 $theme = __DIR__ . '/themes/';
 
